@@ -1,4 +1,3 @@
-using DevExpress.Blazor;
 using Remote.Components;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -9,11 +8,6 @@ builder.Services.AddRazorComponents()
     .AddInteractiveWebAssemblyComponents();
 
 builder.Services.AddHttpContextAccessor();
-//builder.Services.AddDevExpressBlazor(options =>
-//{
-//    options.BootstrapVersion = BootstrapVersion.v5;
-//    options.SizeMode = DevExpress.Blazor.SizeMode.Medium;
-//});
 
 builder.Services.AddAntiforgery(o => o.SuppressXFrameOptionsHeader = true);
 
