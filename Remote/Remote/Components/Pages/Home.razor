@@ -1,0 +1,39 @@
+﻿@page "/"
+
+@rendermode InteractiveServer
+
+<ul>
+    <li>Query Token : @Token</li>
+    <li>Bearer Token : @_bearerToken</li>
+    <li>
+        Current Time : @_time
+        <input type="button" value="Update A" @onclick="@UpdateTimeClicked" />
+    </li>
+</ul>
+
+@code
+{
+    [SupplyParameterFromQuery] private string? Token { get; set; }
+    [Inject] private IHttpContextAccessor HttpContextAccessor { get; set; } = null!;
+
+    DateTime _time = DateTime.Now;
+    private string _bearerToken = "Not Provided";
+
+    protected override Task OnInitializedAsync()
+    {
+        var bearerHeader = HttpContextAccessor.HttpContext.Request.Headers["bearer"];
+        if (bearerHeader.Count > 0)
+        {
+            _bearerToken = bearerHeader[0];
+        }
+
+        return base.OnInitializedAsync();
+    }
+
+    private Task UpdateTimeClicked()
+    {
+        _time = DateTime.Now;
+
+        return Task.CompletedTask;
+    }
+}
