@@ -1,5 +1,7 @@
 using System.Net;
 
+Environment.SetEnvironmentVariable("DOTNET_hostBuilder:reloadConfigOnChange", "false");
+
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 

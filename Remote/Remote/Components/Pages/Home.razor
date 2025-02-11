@@ -17,14 +17,14 @@
     [Inject] private IHttpContextAccessor HttpContextAccessor { get; set; } = null!;
 
     DateTime _time = DateTime.Now;
-    private string _bearerToken = "Not Provided";
+    private static string _bearerToken = "Not Provided";
 
     protected override Task OnInitializedAsync()
     {
-        var bearerHeader = HttpContextAccessor.HttpContext.Request.Headers["bearer"];
+        var bearerHeader = HttpContextAccessor.HttpContext.Request.Headers["Authorization"];
         if (bearerHeader.Count > 0)
         {
-            _bearerToken = bearerHeader[0];
+            _bearerToken = bearerHeader[0].Substring("Bearer ".Length);
         }
 
         return base.OnInitializedAsync();
