@@ -4,7 +4,7 @@
 'Remote.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\professional\common7\ide\extensions\microsoft\web tools\projectsystem\net7.0\Microsoft.WebTools.ApiEndpointDiscovery.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\9.0.102\DotnetTools\dotnet-watch\9.0.102-servicing.24611.3\tools\net9.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\9.0.200-preview.0.25057.12\DotnetTools\dotnet-watch\9.0.200-preview.0.25057.12\tools\net9.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.IO.Pipes.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
@@ -17,8 +17,8 @@
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Runtime.Loader.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.Logging.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.Diagnostics.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
@@ -118,15 +118,31 @@
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Reflection.Emit.ILGeneration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Reflection.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Xml.XDocument.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Information: User profile is available. Using 'C:\Users\dweeden1\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Http.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Security.Cryptography.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.FileProviders.Embedded.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Xml.XDocument.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.Xml.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.Xml.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Xml.ReaderWriter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Http.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository: Debug: Reading data from file 'C:\Users\dweeden1\AppData\Local\ASP.NET\DataProtection-Keys\key-a6f88bf7-ce92-48db-bab3-e90424aa158a.xml'.
+Microsoft.AspNetCore.DataProtection.Repositories.FileSystemXmlRepository: Debug: Reading data from file 'C:\Users\dweeden1\AppData\Local\ASP.NET\DataProtection-Keys\key-bd43fcee-48dd-4e94-b1a8-242a6bdc94ff.xml'.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Debug: Found key {a6f88bf7-ce92-48db-bab3-e90424aa158a}.
+Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager: Debug: Found key {bd43fcee-48dd-4e94-b1a8-242a6bdc94ff}.
+Microsoft.AspNetCore.DataProtection.KeyManagement.DefaultKeyResolver: Debug: Considering key {bd43fcee-48dd-4e94-b1a8-242a6bdc94ff} with expiration date 2025-03-03 02:17:03Z as default key.
+Microsoft.AspNetCore.DataProtection.TypeForwardingActivator: Debug: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+Microsoft.AspNetCore.DataProtection.XmlEncryption.DpapiXmlDecryptor: Debug: Decrypting secret element using Windows DPAPI.
+Microsoft.AspNetCore.DataProtection.TypeForwardingActivator: Debug: Forwarded activator type request from Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Version=8.0.0.0, Culture=neutral, PublicKeyToken=adb9793829ddae60 to Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.ConfigurationModel.AuthenticatedEncryptorDescriptorDeserializer, Microsoft.AspNetCore.DataProtection, Culture=neutral, PublicKeyToken=adb9793829ddae60
+Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory: Debug: Opening CNG algorithm 'AES' from provider '(null)' with chaining mode CBC.
+Microsoft.AspNetCore.DataProtection.AuthenticatedEncryption.CngCbcAuthenticatedEncryptorFactory: Debug: Opening CNG algorithm 'SHA256' from provider '(null)' with HMAC.
+Microsoft.AspNetCore.DataProtection.KeyManagement.KeyRingProvider: Debug: Using key {bd43fcee-48dd-4e94-b1a8-242a6bdc94ff} as the default key.
+Microsoft.AspNetCore.DataProtection.Internal.DataProtectionHostedService: Debug: Key ring with default key {bd43fcee-48dd-4e94-b1a8-242a6bdc94ff} was loaded during application startup.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BlazorWasmHotReloadMiddleware: Debug: Middleware loaded
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/aspnetcore-browser-refresh.js (16497 B).
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Middleware loaded. Script /_framework/blazor-hotreload.js (799 B).
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.IO.MemoryMappedFiles.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Runtime.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
@@ -134,45 +150,238 @@
 'Remote.exe' (CoreCLR: clrhost): Loaded 'Anonymously Hosted DynamicMethods Assembly'. 
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Http.Connections.Common.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Metadata.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubProtocolResolver: Debug: Registered SignalR Protocol: json, implemented by Microsoft.AspNetCore.SignalR.Protocol.JsonHubProtocol.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubProtocolResolver: Debug: Registered SignalR Protocol: blazorpack, implemented by Microsoft.AspNetCore.Components.Server.BlazorPack.BlazorPackHubProtocol.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Threading.Channels.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.Caching.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Extensions.FileSystemGlobbing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.Net.Http.Headers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Net.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Middleware loaded: DOTNET_MODIFIABLE_ASSEMBLIES=debug, __ASPNETCORE_BROWSER_TOOLS=true
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Collections.NonGeneric.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Net.Security.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5062
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Remote
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Microsoft.WebTools.ApiEndpointDiscovery
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Microsoft.AspNetCore.Watch.BrowserRefresh
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly Microsoft.WebTools.BrowserLink.Net
+Microsoft.AspNetCore.Mvc.Infrastructure.DefaultActionDescriptorCollectionProvider: Information: No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
 Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
 Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
 Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\dweeden1\source\repos\BlazorIssueXHR\Remote\Remote
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRL" received FIN.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRL" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRL" started.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRL" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRL" disconnecting.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRL" stopped.
 Verbose logs are written to:
 C:\Users\dweeden1\AppData\Local\Temp\visualstudio-js-debugger.txt
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRM" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRM" started.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Net.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A54695%2Fdevtools%2Fbrowser%2F51d66868-330c-48ef-bfb4-f59e58d85164 - - -
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Threading.Tasks.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware: Debug: Wildcard detected, all requests with hosts will be allowed.
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_framework/debug/ws-proxy'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint '(null)' with route pattern '/_framework/{*path}' is valid for the request path '/_framework/debug/ws-proxy'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Web.HttpUtility.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Text.RegularExpressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Diagnostics.Process.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRM" completed keep alive response.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRM" received FIN.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRM" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRM" disconnecting.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost/_framework/debug/ws-proxy?browser=ws%3A%2F%2F127.0.0.1%3A54695%2Fdevtools%2Fbrowser%2F51d66868-330c-48ef-bfb4-f59e58d85164 - 302 0 - 612.7925ms
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRM" stopped.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" started.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/ - - -
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Net.NameResolution.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '/ (/)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint '/ (/)'
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.Html.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Components.Endpoints.RazorComponentEndpointInvoker: Debug: Begin render root component 'App' with page 'Home'.
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing root component 0 (Remote.Components.App)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 0 of type Remote.Components.App
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Users\dweeden1\source\repos\BlazorIssueXHR\Remote\Remote\bin\Debug\net8.0\DevExpress.Blazor.Resources.v24.2.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Users\dweeden1\source\repos\BlazorIssueXHR\Remote\Remote\bin\Debug\net8.0\DevExpress.Data.v24.2.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Runtime.Serialization.Formatters.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 1 (Microsoft.AspNetCore.Components.Web.HeadOutlet) as child of 0 (Remote.Components.App)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 2 (Remote.Components.Routes) as child of 0 (Remote.Components.App)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 1 of type Microsoft.AspNetCore.Components.Web.HeadOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 3 (Microsoft.AspNetCore.Components.Sections.SectionOutlet) as child of 1 (Microsoft.AspNetCore.Components.Web.HeadOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 4 (Microsoft.AspNetCore.Components.Sections.SectionOutlet) as child of 1 (Microsoft.AspNetCore.Components.Web.HeadOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 2 of type Remote.Components.Routes
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 5 (Microsoft.AspNetCore.Components.Routing.Router) as child of 2 (Remote.Components.Routes)
+Microsoft.AspNetCore.Components.Routing.Router: Debug: Navigating to component Remote.Components.Pages.Home in response to path '/' with base URI 'http://localhost:5062/'
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 3 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 6 (Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer) as child of 3 (Microsoft.AspNetCore.Components.Sections.SectionOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 3 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 4 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 7 (Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer) as child of 4 (Microsoft.AspNetCore.Components.Sections.SectionOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 4 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 5 of type Microsoft.AspNetCore.Components.Routing.Router
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 8 (Microsoft.AspNetCore.Components.RouteView) as child of 5 (Microsoft.AspNetCore.Components.Routing.Router)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 9 (Microsoft.AspNetCore.Components.Routing.FocusOnNavigate) as child of 5 (Microsoft.AspNetCore.Components.Routing.Router)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 6 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 6 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 7 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 7 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 8 of type Microsoft.AspNetCore.Components.RouteView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 10 (Microsoft.AspNetCore.Components.LayoutView) as child of 8 (Microsoft.AspNetCore.Components.RouteView)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 9 of type Microsoft.AspNetCore.Components.Routing.FocusOnNavigate
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 10 of type Microsoft.AspNetCore.Components.LayoutView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 11 (Remote.Components.Layout.MainLayout) as child of 10 (Microsoft.AspNetCore.Components.LayoutView)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 11 of type Remote.Components.Layout.MainLayout
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 12 (Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary) as child of 11 (Remote.Components.Layout.MainLayout)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 12 of type Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 13 (Remote.Components.Pages.Home) as child of 12 (Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 13 of type Remote.Components.Pages.Home
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 14 (DevExpress.Blazor.DxButton) as child of 13 (Remote.Components.Pages.Home)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 14 of type DevExpress.Blazor.DxButton
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 15 (DevExpress.Blazor.Internal.DxButtonInternal) as child of 14 (DevExpress.Blazor.DxButton)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 15 of type DevExpress.Blazor.Internal.DxButtonInternal
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Diagnostics.TraceSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 16 (Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]) as child of 15 (DevExpress.Blazor.Internal.DxButtonInternal)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 16 of type Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]
 'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.DataProtection.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-[2025-02-10T18:06:32.768Z] Information: Normalizing '_blazor' to 'http://localhost:5062/_blazor'.
-[2025-02-10T18:06:32.794Z] Information: WebSocket connected to ws://localhost:5062/_blazor?id=8zHnb8ZLkpkTsZBdRBJhZA.
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: A new antiforgery cookie token was created.
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup is scheduled to include browser refresh script injection.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint '/ (/)'
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Debug: Response markup was updated to include browser refresh script injection.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" completed keep alive response.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRO" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRO" started.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_framework/blazor.web.js - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 2 candidate(s) found for the request path '/_framework/blazor.web.js'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'Blazor web static files' with route pattern '/_framework/blazor.web.js' is valid for the request path '/_framework/blazor.web.js'
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 0 of type Remote.Components.App
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint '(null)' with route pattern '/_framework/{*path}' is valid for the request path '/_framework/blazor.web.js'
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 1 of type Microsoft.AspNetCore.Components.Web.HeadOutlet
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'Blazor web static files'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Blazor web static files'
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 2 of type Remote.Components.Routes
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 3 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 4 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 5 of type Microsoft.AspNetCore.Components.Routing.Router
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 6 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 7 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 8 of type Microsoft.AspNetCore.Components.RouteView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 9 of type Microsoft.AspNetCore.Components.Routing.FocusOnNavigate
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 10 of type Microsoft.AspNetCore.Components.LayoutView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 11 of type Remote.Components.Layout.MainLayout
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 12 of type Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 13 of type Remote.Components.Pages.Home
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 14 of type DevExpress.Blazor.DxButton
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 15 of type DevExpress.Blazor.Internal.DxButtonInternal
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 16 of type Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /_framework/blazor.web.js was not modified
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/ - 200 - text/html;+charset=utf-8 327.8705ms
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /_framework/blazor.web.js
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_framework/aspnetcore-browser-refresh.js - - -
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Blazor web static files'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRO" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_framework/blazor.web.js - 304 - text/javascript 39.9562ms
+Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserScriptMiddleware: Debug: Script injected: /_framework/aspnetcore-browser-refresh.js
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_framework/aspnetcore-browser-refresh.js - 200 16497 application/javascript;+charset=utf-8 7.9866ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_vs/browserLink - - -
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_vs/browserLink - 200 - text/javascript;+charset=UTF-8 21.6755ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_blazor/initializers - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor/initializers'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_blazor/initializers - 200 - application/json;+charset=utf-8 12.3303ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 POST http://localhost:5062/_blazor/negotiate?negotiateVersion=1 - - 0
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/favicon.ico - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor/negotiate'
+[2025-02-11T01:45:58.120Z] Information: Normalizing '_blazor' to 'http://localhost:5062/_blazor'.
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: No candidates found for the request path '/favicon.ico'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request did not match any endpoints
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: The request path /favicon.ico does not match an existing file
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRO" completed keep alive response.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5062'.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/favicon.ico - 404 0 - 11.2357ms
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution failed.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: Request origin http://localhost:5062 does not have permission to access the resource.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:5062/favicon.ico, Response status code: 404
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionManager: Debug: New connection -aLSOtOJswL78TyOdsaj9Q created.
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionDispatcher: Debug: Sending negotiation response.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 POST http://localhost:5062/_blazor/negotiate?negotiateVersion=1 - 200 316 application/json 30.1304ms
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRP" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRP" started.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_blazor?id=ROgrMzNCbVKofSnEPb7LRA - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5062'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution failed.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: Request origin http://localhost:5062 does not have permission to access the resource.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionDispatcher: Debug: Establishing new connection.
+Microsoft.AspNetCore.SignalR.HubConnectionHandler: Debug: OnConnectedAsync started.
+Microsoft.AspNetCore.Http.Connections.Internal.Transports.WebSocketsTransport: Debug: Socket opened using Sub-Protocol: '(null)'.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubProtocolResolver: Debug: Found protocol implementation for requested protocol: blazorpack.
+Microsoft.AspNetCore.SignalR.HubConnectionContext: Debug: Completed connection handshake. Using HubProtocol 'blazorpack'.
+[2025-02-11T01:45:58.256Z] Information: WebSocket connected to ws://localhost:5062/_blazor?id=ROgrMzNCbVKofSnEPb7LRA.
 CSS Hot Reload ignoring http://localhost:5062/_content/DevExpress.Blazor.Themes/blazing-berry.bs5.min.css because it was inaccessible or had more than 7000 rules.
-The thread '.NET TP Worker' (74172) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (68572) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (68056) has exited with code 0 (0x0).
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubDispatcher: Debug: Received hub invocation: InvocationMessage { InvocationId: "0", Target: "StartCircuit", Arguments: [ http://localhost:5062/, http://localhost:5062/, [], CfDJ8O78Q73dSJROsagkKmvclP+DktviltwSRu0PHa6BNy1MB3o17+tNiT9z1hbxH8DrNTS86geFgl9jg7NrA+pEjWBkT+SoKRw/1Sha73NwvI4B2lrXI3b91NUhOruqqDUxVHAGV/EKa9Ea9jj/iX3nWPs6Cao+bvLxq0rPCCLJPWogBR7uuKoR7nOp/Y0qZsmoT97ZLK0KLWMXIiGewvm+02Klc6VIS1p6brj+M8ztC+4nJkWKGJiP1lXX19YeASC1pOE7ZmCxy2OqDCgd00xXM21/PV0hlEF1pRuN2wnXcmdYAhyYH67WI/jnFrFoCXOW00nE6b5VUJGAKV8RANmKR5n1VwS1LSmpsDH4d8J9hcg94NgTwIiuyDeiIcbvN8os1LMrSEFIuQ61PzfaRZqyN4iIRByLqKfITKJeBKZldVKDLU6/I2+iZ8RNVOPc/AY35lA+M6g3dunFXV7f9hX1PjQjG9uXdVAM9pNf2Y80JI/N7IidRc4Kdy2yNBX2Abn41r0NBJ9rJbKlQ8/u0IrHcwQpznBECfz+OD2qAtSIVd4T ], StreamIds: [  ] }.
+Microsoft.AspNetCore.Components.Server.Circuits.RemoteJSRuntime: Debug: Begin invoke JS interop '2': 'Blazor._internal.attachWebRendererInterop'
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitFactory: Debug: Created circuit nqqEzWN_eKZbBaTydAn3xKj7dGy3YfupuufQjdtGh6M for connection -aLSOtOJswL78TyOdsaj9Q
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: Circuit initialization started.
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: Circuit initialization succeeded.
+Microsoft.AspNetCore.Components.Server.ComponentHub: Debug: Created circuit 'nqqEzWN_eKZbBaTydAn3xKj7dGy3YfupuufQjdtGh6M' with secret '(redacted)' for '-aLSOtOJswL78TyOdsaj9Q'
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubDispatcher: Debug: Received hub invocation: InvocationMessage { InvocationId: "", Target: "EndInvokeJSFromDotNet", Arguments: [ 2, True, [2,true,null] ], StreamIds: [  ] }.
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: The JS interop call with callback id '2' succeeded.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubDispatcher: Debug: Received hub invocation: InvocationMessage { InvocationId: "", Target: "UpdateRootComponents", Arguments: [ {"batchId":1,"operations":[{"type":"add","ssrComponentId":1,"marker":{"type":"server","prerenderId":"fec860bcfdcd421294abcc85e956ebba","key":{"locationHash":"A02CFC9E185E4027B5DC627EB097BA188A87760DEACD4A6B662B2E80AEB32EC6:0","formattedComponentKey":""},"sequence":0,"descriptor":"CfDJ8O78Q73dSJROsagkKmvclP8XmaenQZx3kJCcIu8V3AgDnQVf6D7yhSm4LBXlhRh2jwaRGWUaLBXGco2Nrn3t7biTeHLNYXezeFxKwlHTE5ocXnb4DYgDD2DZdAYM/Kx0Ct/o3fRX9s/iF8ev/4NdmILSfVt9DgEFWtRPs8ZIwbCHDj52+Lr/Crck9a2m/YVUyfP7IVaGjHcy9bhnOLWpjpDMzoheSb5VNb/nTiuSPluOO1TB0qpy8KbMdAFxjDaTkDzOgyP/6ucNA8G0q2AJRXFklCunBhGfFdoZse3tnt1t3PxPM2tcuLBPBt2JCqlxwGxidAfl4b0gKcqpXXXO7bjPjVWi8Qjl89QuAEu42BRfkr97MtlJZ9QlyvyoGPcSEUpQTCTLsMNYSX+T4ZgCrym0cAAth2o9xwZbGCB6QNfJ2OjT2HOYEVuwNHRHwy4767F3BpUdOJCgMh8bSfipwmqYNQoaAC5AtGsrtetnHf4SXrX3NIeqXSBf8CE52H2x0Hub0jyARkQZWPwzvjS72Q8=","uniqueId":0}}]}, CfDJ8O78Q73dSJROsagkKmvclP+DktviltwSRu0PHa6BNy1MB3o17+tNiT9z1hbxH8DrNTS86geFgl9jg7NrA+pEjWBkT+SoKRw/1Sha73NwvI4B2lrXI3b91NUhOruqqDUxVHAGV/EKa9Ea9jj/iX3nWPs6Cao+bvLxq0rPCCLJPWogBR7uuKoR7nOp/Y0qZsmoT97ZLK0KLWMXIiGewvm+02Klc6VIS1p6brj+M8ztC+4nJkWKGJiP1lXX19YeASC1pOE7ZmCxy2OqDCgd00xXM21/PV0hlEF1pRuN2wnXcmdYAhyYH67WI/jnFrFoCXOW00nE6b5VUJGAKV8RANmKR5n1VwS1LSmpsDH4d8J9hcg94NgTwIiuyDeiIcbvN8os1LMrSEFIuQ61PzfaRZqyN4iIRByLqKfITKJeBKZldVKDLU6/I2+iZ8RNVOPc/AY35lA+M6g3dunFXV7f9hX1PjQjG9uXdVAM9pNf2Y80JI/N7IidRc4Kdy2yNBX2Abn41r0NBJ9rJbKlQ8/u0IrHcwQpznBECfz+OD2qAtSIVd4T ], StreamIds: [  ] }.
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: Update root components started.
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: Opening circuit with id 'nqqEzWN_eKZbBaTydAn3xKj7dGy3YfupuufQjdtGh6M'.
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: Circuit id 'nqqEzWN_eKZbBaTydAn3xKj7dGy3YfupuufQjdtGh6M' connected using connection '-aLSOtOJswL78TyOdsaj9Q'.
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing root component 0 (Remote.Components.Pages.Home)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 0 of type Remote.Components.Pages.Home
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 1 (DevExpress.Blazor.DxButton) as child of 0 (Remote.Components.Pages.Home)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 1 of type DevExpress.Blazor.DxButton
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 2 (DevExpress.Blazor.Internal.DxButtonInternal) as child of 1 (DevExpress.Blazor.DxButton)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 2 of type DevExpress.Blazor.Internal.DxButtonInternal
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 3 (Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]) as child of 2 (DevExpress.Blazor.Internal.DxButtonInternal)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 3 of type Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]
+Microsoft.AspNetCore.Components.Server.Circuits.RemoteRenderer: Debug: Sending render batch 2 of size 2331 bytes to client -aLSOtOJswL78TyOdsaj9Q.
+Microsoft.AspNetCore.Components.Server.Circuits.CircuitHost: Debug: Update root components succeeded.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubDispatcher: Debug: Received hub invocation: InvocationMessage { InvocationId: "", Target: "OnRenderCompleted", Arguments: [ 2,  ], StreamIds: [  ] }.
+Microsoft.AspNetCore.Components.Server.ComponentHub: Debug: Received confirmation for batch 2
+Microsoft.AspNetCore.Components.Server.Circuits.RemoteRenderer: Debug: Completing batch 2 without error in 12.515ms.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRO" received FIN.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRN" received FIN.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRO" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" disconnecting.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRO" disconnecting.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRN" sending FIN because: "The Socket transport's send loop completed gracefully."
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRO" stopped.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRN" stopped.
+The thread '.NET TP Worker' (37724) has exited with code 0 (0x0).
+The thread '.NET TP Worker' (42060) has exited with code 0 (0x0).
 'Origin.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Users\dweeden1\source\repos\BlazorIssueXHR\Origin\bin\Debug\net8.0\Origin.dll'. Symbols loaded.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\professional\common7\ide\extensions\microsoft\web tools\projectsystem\net7.0\Microsoft.WebTools.ApiEndpointDiscovery.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
-'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\9.0.102\DotnetTools\dotnet-watch\9.0.102-servicing.24611.3\tools\net9.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\SDK\9.0.200-preview.0.25057.12\DotnetTools\dotnet-watch\9.0.200-preview.0.25057.12\tools\net9.0\any\middleware\Microsoft.AspNetCore.Watch.BrowserRefresh.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\Microsoft Visual Studio\2022\Professional\Common7\IDE\Extensions\Microsoft\Web Tools\Browser Link\Microsoft.WebTools.BrowserLink.Net.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'c:\program files\microsoft visual studio\2022\professional\common7\ide\commonextensions\microsoft\hotreload\Microsoft.Extensions.DotNetDeltaApplier.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.IO.Pipes.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
@@ -289,14 +498,168 @@ Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\dweeden1\so
 'Origin.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.12\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
 Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware: Warning: Unable to configure Browser Link script injection on the response. 
 Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Warning: Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
-The thread '.NET TP Worker' (74660) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (76908) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (76856) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (77676) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (64912) has exited with code 0 (0x0).
+The thread '.NET TP Worker' (41548) has exited with code 0 (0x0).
+The thread '.NET TP Worker' (3756) has exited with code 0 (0x0).
+The thread '.NET TP Worker' (41132) has exited with code 0 (0x0).
+The thread '.NET TP Worker' (36016) has exited with code 0 (0x0).
 Microsoft.WebTools.BrowserLink.Net.BrowserLinkMiddleware: Warning: Unable to configure Browser Link script injection on the response. 
 Microsoft.AspNetCore.Watch.BrowserRefresh.BrowserRefreshMiddleware: Warning: Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
-The thread 14668 has exited with code 0 (0x0).
-The thread '.NET TP Worker' (74836) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (67448) has exited with code 0 (0x0).
-The thread '.NET TP Worker' (75720) has exited with code 0 (0x0).
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRQ" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRQ" started.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 OPTIONS http://localhost:5062/ - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '405 HTTP Method Not Supported'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5200'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution successful.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request is a preflight request.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRQ" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 OPTIONS http://localhost:5062/ - 204 - - 15.4035ms
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRR" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRR" started.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/ - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '/ (/)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5200'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint '/ (/)'
+Microsoft.AspNetCore.Components.Endpoints.RazorComponentEndpointInvoker: Debug: Begin render root component 'App' with page 'Home'.
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing root component 0 (Remote.Components.App)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 0 of type Remote.Components.App
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 1 (Microsoft.AspNetCore.Components.Web.HeadOutlet) as child of 0 (Remote.Components.App)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 2 (Remote.Components.Routes) as child of 0 (Remote.Components.App)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 1 of type Microsoft.AspNetCore.Components.Web.HeadOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 3 (Microsoft.AspNetCore.Components.Sections.SectionOutlet) as child of 1 (Microsoft.AspNetCore.Components.Web.HeadOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 4 (Microsoft.AspNetCore.Components.Sections.SectionOutlet) as child of 1 (Microsoft.AspNetCore.Components.Web.HeadOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 2 of type Remote.Components.Routes
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 5 (Microsoft.AspNetCore.Components.Routing.Router) as child of 2 (Remote.Components.Routes)
+Microsoft.AspNetCore.Components.Routing.Router: Debug: Navigating to component Remote.Components.Pages.Home in response to path '/' with base URI 'http://localhost:5062/'
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 3 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 6 (Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer) as child of 3 (Microsoft.AspNetCore.Components.Sections.SectionOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 3 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 4 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 7 (Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer) as child of 4 (Microsoft.AspNetCore.Components.Sections.SectionOutlet)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 4 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 5 of type Microsoft.AspNetCore.Components.Routing.Router
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 8 (Microsoft.AspNetCore.Components.RouteView) as child of 5 (Microsoft.AspNetCore.Components.Routing.Router)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 9 (Microsoft.AspNetCore.Components.Routing.FocusOnNavigate) as child of 5 (Microsoft.AspNetCore.Components.Routing.Router)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 6 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 6 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 7 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 7 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 8 of type Microsoft.AspNetCore.Components.RouteView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 10 (Microsoft.AspNetCore.Components.LayoutView) as child of 8 (Microsoft.AspNetCore.Components.RouteView)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 9 of type Microsoft.AspNetCore.Components.Routing.FocusOnNavigate
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 10 of type Microsoft.AspNetCore.Components.LayoutView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 11 (Remote.Components.Layout.MainLayout) as child of 10 (Microsoft.AspNetCore.Components.LayoutView)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 11 of type Remote.Components.Layout.MainLayout
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 12 (Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary) as child of 11 (Remote.Components.Layout.MainLayout)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 12 of type Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 13 (Remote.Components.Pages.Home) as child of 12 (Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 13 of type Remote.Components.Pages.Home
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 14 (DevExpress.Blazor.DxButton) as child of 13 (Remote.Components.Pages.Home)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 14 of type DevExpress.Blazor.DxButton
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 15 (DevExpress.Blazor.Internal.DxButtonInternal) as child of 14 (DevExpress.Blazor.DxButton)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 15 of type DevExpress.Blazor.Internal.DxButtonInternal
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Initializing component 16 (Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]) as child of 15 (DevExpress.Blazor.Internal.DxButtonInternal)
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Rendering component 16 of type Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]
+Microsoft.AspNetCore.Antiforgery.DefaultAntiforgery: Debug: A new antiforgery cookie token was created.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint '/ (/)'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRR" completed keep alive response.
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 0 of type Remote.Components.App
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 1 of type Microsoft.AspNetCore.Components.Web.HeadOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 2 of type Remote.Components.Routes
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 3 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 4 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 5 of type Microsoft.AspNetCore.Components.Routing.Router
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 6 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 7 of type Microsoft.AspNetCore.Components.Sections.SectionOutlet+SectionOutletContentRenderer
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 8 of type Microsoft.AspNetCore.Components.RouteView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 9 of type Microsoft.AspNetCore.Components.Routing.FocusOnNavigate
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 10 of type Microsoft.AspNetCore.Components.LayoutView
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 11 of type Remote.Components.Layout.MainLayout
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 12 of type Microsoft.AspNetCore.Components.Endpoints.SSRRenderModeBoundary
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 13 of type Remote.Components.Pages.Home
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 14 of type DevExpress.Blazor.DxButton
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 15 of type DevExpress.Blazor.Internal.DxButtonInternal
+Microsoft.AspNetCore.Components.RenderTree.Renderer: Debug: Disposing component 16 of type Microsoft.AspNetCore.Components.CascadingValue`1[DevExpress.Blazor.SizeMode]
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/ - 200 - text/html;+charset=utf-8 94.2310ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_framework/blazor.web.js - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 2 candidate(s) found for the request path '/_framework/blazor.web.js'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint 'Blazor web static files' with route pattern '/_framework/blazor.web.js' is valid for the request path '/_framework/blazor.web.js'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: Endpoint '(null)' with route pattern '/_framework/{*path}' is valid for the request path '/_framework/blazor.web.js'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint 'Blazor web static files'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Blazor web static files'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Information: The file /_framework/blazor.web.js was not modified
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Handled. Status code: 304 File: /_framework/blazor.web.js
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Blazor web static files'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRR" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_framework/blazor.web.js - 304 - text/javascript 14.4687ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_blazor/initializers - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor/initializers'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5200'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRR" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_blazor/initializers - 200 - application/json;+charset=utf-8 11.2251ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 OPTIONS http://localhost:5062/_blazor/negotiate?negotiateVersion=1 - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor/negotiate'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5200'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution successful.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request is a preflight request.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRQ" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 OPTIONS http://localhost:5062/_blazor/negotiate?negotiateVersion=1 - 204 - - 9.2953ms
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 POST http://localhost:5062/_blazor/negotiate?negotiateVersion=1 - - 0
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor/negotiate'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5200'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionManager: Debug: New connection SOX3N_Sj9dN1AQ7qIuf_CA created.
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionDispatcher: Debug: Sending negotiation response.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRR" completed keep alive response.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 POST http://localhost:5062/_blazor/negotiate?negotiateVersion=1 - 200 316 application/json 12.7294ms
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRS" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRS" started.
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5062/_blazor?id=qz3pOg9Cvfto6ja6RRgSAg - - -
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/_blazor'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '(null)'
+Microsoft.AspNetCore.StaticFiles.StaticFileMiddleware: Debug: Static files was skipped as the request already matched an endpoint.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Debug: The request has an origin header: 'http://localhost:5200'.
+Microsoft.AspNetCore.Cors.Infrastructure.CorsService: Information: CORS policy execution successful.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionDispatcher: Debug: Establishing new connection.
+Microsoft.AspNetCore.SignalR.HubConnectionHandler: Debug: OnConnectedAsync started.
+Microsoft.AspNetCore.Http.Connections.Internal.Transports.WebSocketsTransport: Debug: Socket opened using Sub-Protocol: '(null)'.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubProtocolResolver: Debug: Found protocol implementation for requested protocol: blazorpack.
+Microsoft.AspNetCore.SignalR.HubConnectionContext: Debug: Completed connection handshake. Using HubProtocol 'blazorpack'.
+Microsoft.AspNetCore.SignalR.Internal.DefaultHubDispatcher: Debug: Received hub invocation: InvocationMessage { InvocationId: "0", Target: "StartCircuit", Arguments: [ http://localhost:5062/, http://localhost:5200/HeaderToken, [],  ], StreamIds: [  ] }.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Diagnostics.StackTrace.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Reflection.Metadata.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'Remote.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\8.0.12\System.Collections.Immutable.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Microsoft.AspNetCore.Components.Server.ComponentHub: Debug: Circuit initialization failed
+
+System.ArgumentException: The URI 'http://localhost:5200/HeaderToken' is not contained by the base URI 'http://localhost:5062/'.
+   at Microsoft.AspNetCore.Components.NavigationManager.Validate(Uri baseUri, String uri)
+   at Microsoft.AspNetCore.Components.NavigationManager.Initialize(String baseUri, String uri)
+   at Microsoft.AspNetCore.Components.Server.Circuits.CircuitFactory.CreateCircuitHostAsync(IReadOnlyList`1 components, CircuitClientProxy client, String baseUri, String uri, ClaimsPrincipal user, IPersistentComponentStateStore store)
+   at Microsoft.AspNetCore.Components.Server.ComponentHub.StartCircuit(String baseUri, String uri, String serializedComponentRecords, String applicationState)
+Microsoft.AspNetCore.SignalR.HubConnectionHandler: Debug: OnConnectedAsync ending.
+Microsoft.AspNetCore.Http.Connections.Internal.Transports.WebSocketsTransport: Debug: Waiting for the application to finish sending data.
+Microsoft.AspNetCore.Http.Connections.Internal.Transports.WebSocketsTransport: Debug: Socket closed.
+Microsoft.AspNetCore.Http.Connections.Internal.HttpConnectionManager: Debug: Removing connection qz3pOg9Cvfto6ja6RRgSAg from the list of connections.
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executed endpoint 'Microsoft.AspNetCore.Routing.RouteEndpoint'
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request finished HTTP/1.1 GET http://localhost:5062/_blazor?id=qz3pOg9Cvfto6ja6RRgSAg - 101 - - 51.5365ms
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRS" disconnecting.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HNAA7N8A7DRS" stopped.
+Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets: Debug: Connection id "0HNAA7N8A7DRS" sending FIN because: "The Socket transport's send loop completed gracefully."
+The thread 28808 has exited with code 0 (0x0).
