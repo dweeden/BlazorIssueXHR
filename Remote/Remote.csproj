@@ -7,8 +7,15 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="../../../aspnetcore/src/Components/Components/src/Microsoft.AspNetCore.Components.csproj" />
     <ProjectReference Include="..\Remote.Client\Remote.Client.csproj" />
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="8.0.11" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Microsoft.AspNetCore.Components">
+      <HintPath>..\..\..\aspnetcore\artifacts\bin\Microsoft.AspNetCore.Components\Debug\net8.0\Microsoft.AspNetCore.Components.dll</HintPath>
+    </Reference>
   </ItemGroup>
 
 </Project>
