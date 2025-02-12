@@ -21,10 +21,14 @@
 
     protected override Task OnInitializedAsync()
     {
-        var bearerHeader = HttpContextAccessor.HttpContext.Request.Headers["Authorization"];
-        if (bearerHeader.Count > 0)
+        var authHeader = HttpContextAccessor?.HttpContext?.Request.Headers["Authorization"];
+        if (authHeader.HasValue && authHeader.Value.Count > 0)
         {
-            _bearerToken = bearerHeader[0].Substring("Bearer ".Length);
+            var value = authHeader.Value[0];
+            if (value != null && value.StartsWith("Bearer "))
+            {
+                _bearerToken = value.Substring(7);
+            }            
         }
 
         return base.OnInitializedAsync();
