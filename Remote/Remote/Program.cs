@@ -37,9 +37,9 @@ else
 app.UseStaticFiles();
 app.UseAntiforgery();
 app.UseCors();
-
 app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode()
-    .AddInteractiveWebAssemblyRenderMode();
+    .AddInteractiveWebAssemblyRenderMode()
+    .AddAdditionalAssemblies(typeof(Remote.Client._Imports).Assembly);
 
 app.Run();
