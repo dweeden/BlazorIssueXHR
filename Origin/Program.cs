@@ -7,17 +7,37 @@ var app = builder.Build();
 
 app.MapGet("/", () =>
     Results.Text(contentType: "text/html",
-        content: "<ul><li><a href='QueryToken'>Token in Query String</a></li><li><a href='HeaderToken'>Token in Header</a></li><ul>"
+        content: "<ul><li><a href='QueryToken'>Token in Query String</a></li><li><a href='HeaderToken1?foo=bar'>Token in Header 1</a></li><li><a href='HeaderToken2?foo=bar'>Token in Header 2</a></li><ul>"
     )
 );
 
 app.MapGet("/QueryToken", () =>
     Results.Text(contentType: "text/html",
-        content: "<iframe width='700' height='500' src='http://localhost:5062/?token=SampleQueryTokenValue'></iframe>"
+        content: "<iframe width='1024' height='768' src='http://localhost:5062/?token=SampleQueryTokenValue'></iframe>"
     )
 );
 
-app.MapGet("/HeaderToken", () =>
+app.MapGet("/HeaderToken1", () =>
+    Results.Text(contentType: "text/html",
+        content: "<iframe width='1024' height='768'></iframe>\n" +
+                 "     <script>\n" +
+                 "       async function getSrc() {\n" +
+                 "         const res = await fetch(\"http://localhost:5062\", {\n" +
+                 "           method: 'GET',\n" +
+                 "           headers: {\n" +
+                 "             // Here you can set any headers you want\n" +
+                 "           }\n" +
+                 "         });\n" +
+                 "         const blob = await res.blob();\n" +
+                 "         const urlObject = URL.createObjectURL(blob);\n" +
+                 "         document.querySelector('iframe').setAttribute(\"src\", urlObject)\n" +
+                 "       }\n" +
+                 "       getSrc();\n" +
+                 "   </script>"
+    )
+);
+
+app.MapGet("/HeaderToken2", () =>
     Results.Text(contentType: "text/html",
         content: "<script src='https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>\r\n" +
                  "<script>\r\n" +
@@ -59,28 +79,12 @@ app.MapGet("/HeaderToken", () =>
                  
                  "</script>\r\n" +
                  
-                 "<iframe id='HeaderTokenIFrame' width='700' height='500'></iframe>"
+                 "<iframe id='HeaderTokenIFrame' width='1024' height='768'></iframe>"
     )
 );
 
-app.Run();
-
-
-
 /*
-   <script src='https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js'></script>
+  
+ */
 
-   <script>
-       function populateIframe(iframe, url, token) {
-           
-           
-       }
-       
-       window.$j = jQuery.noConflict();
-       $j(document).ready(function() {
-           //populateIframe($j('#caseFieldsIFrame'), '{!FieldsUrl}', '{!FieldsToken_Case}')
-       });        
-
-   </script>   
-
-*/
+app.Run();
