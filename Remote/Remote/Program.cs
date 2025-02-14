@@ -1,4 +1,5 @@
 using Remote.Components;
+using DevExpress.Blazor;
 
 Environment.SetEnvironmentVariable("DOTNET_hostBuilder:reloadConfigOnChange", "false");
 
@@ -20,6 +21,12 @@ builder.Services.AddCors(options =>
         {
             policy.WithOrigins("http://localhost:5200").AllowAnyHeader().AllowAnyMethod().AllowCredentials();
         });
+});
+
+builder.Services.AddDevExpressBlazor(options =>
+{
+    options.BootstrapVersion = BootstrapVersion.v5;
+    options.SizeMode = DevExpress.Blazor.SizeMode.Medium;
 });
 
 var app = builder.Build();
